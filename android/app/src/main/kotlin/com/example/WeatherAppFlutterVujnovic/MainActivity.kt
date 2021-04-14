@@ -1,0 +1,6 @@
+package com.example.WeatherAppFlutterVujnovic
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
